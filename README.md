@@ -4,4 +4,4 @@ Rich & editorial: warm cream with deep burgundy, icon quick-action bar, big phot
 
 Generated preview site. Live at https://dundysm.github.io/style-5/
 
-Images are stills from licensed Pexels stock footage (not Rao Dental staff or premises) plus the practice's own assets.
+Photos: free Unsplash images (see IMAGES.md), not Rao Dental staff, patients or offices, plus the practice's own portrait and logos.
